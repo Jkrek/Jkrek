@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 # 💫 About Me:
+Data Science Intern @ TQL
 I am currently working on data visualization projects and machine learning algorithms<br>
 I'm open to collaborating on a wide range of projects with fellow computer science students<br>
-I'm currently learning about data structures and assembly language<br>
+I'm currently learning about data science and computer vision!<br>
 Fun fact: I have participated in 4 hackathons at the University of Cincinnati
 
 
