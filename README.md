@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Data Science Intern @ TQL
+Data Science Intern @ TQL<br>
 I am currently working on data visualization projects and machine learning algorithms<br>
 I'm open to collaborating on a wide range of projects with fellow computer science students<br>
 I'm currently learning about data science and computer vision!<br>
